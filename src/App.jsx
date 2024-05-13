@@ -70,7 +70,7 @@ function App() {
   return (
     <div className="h-screen w-full ">
       <div className="content">
-        <h1 className='text-center lg:text-[3vw] md:text-[4vw] text-[5vw] bg-pink-600 text-white m-[1vw]'>{selectedMonth}</h1> 
+        <h1 className='text-center lg:text-[3vw] md:text-[4vw] text-[5vw] bg-sky-100  m-[1vw] '>{selectedMonth}</h1> 
         <DatePicker
           selected={selectedDate}
           onChange={handleDateChange}
