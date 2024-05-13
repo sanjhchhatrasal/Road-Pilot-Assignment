@@ -28,9 +28,6 @@ Road Pilot Assignment is a web application designed to assist users in planning 
 ## Technologies Used
 
 - React: Frontend development framework
-- Redux: State management for React applications
-- Firebase: Authentication and data storage
-- Mapbox API: Mapping and navigation functionalities
 
 ## Installation
 
