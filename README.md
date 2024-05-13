@@ -37,8 +37,8 @@ Road Pilot Assignment is a web application designed to assist users in planning 
 
 ## Usage
 
-1. Start the development server: `npm start`
-2. Open your browser and navigate to `http://localhost:3000` to access the application.
+1. Start the development server: `npm run dev`
+2. Open your browser and navigate to `http://localhost:5173` to access the application.
 
 ## Contributing
 
