@@ -18,12 +18,7 @@ Welcome to the Road Pilot Assignment repository!
 
 Road Pilot Assignment is a web application designed to assist users in planning and managing road trips. It provides features such as route customization, real-time navigation, trip tracking, and more.
 
-## Features
 
-- **Route Planning:** Plan your road trip by customizing your route with multiple waypoints.
-- **Navigation:** Get real-time navigation instructions and alerts during your trip.
-- **Trip Management:** Manage your trips, including saving and editing trip details.
-- **User Authentication:** Securely login and manage your trips with personalized settings.
 
 ## Technologies Used
 
