@@ -2,7 +2,7 @@
 
 # Road Pilot Assignment
 
-Welcome to the Road Pilot Assignment repository! This project is focused on creating a responsive web application for road trips, featuring route planning, navigation, and trip management functionalities.
+Welcome to the Road Pilot Assignment repository! 
 
 ## Table of Contents
 
